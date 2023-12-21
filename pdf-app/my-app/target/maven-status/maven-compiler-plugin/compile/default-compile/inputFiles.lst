@@ -1,3 +1,5 @@
 /workspaces/jvc/pdf-app/my-app/src/main/java/com/mycompany/app/App.java
+/workspaces/jvc/pdf-app/my-app/src/main/java/com/mycompany/app/fileprocessor/CaseFolder.java
 /workspaces/jvc/pdf-app/my-app/src/main/java/com/mycompany/app/fileprocessor/CaseFile.java
+/workspaces/jvc/pdf-app/my-app/src/main/java/com/mycompany/app/fileprocessor/Gui.java
 /workspaces/jvc/pdf-app/my-app/src/main/java/com/mycompany/app/fileprocessor/FileProcessor.java
